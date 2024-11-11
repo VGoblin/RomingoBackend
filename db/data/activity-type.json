@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Dog Park"
+  },
+  {
+    "id": 2,
+    "name": "Dog Beach"
+  },
+  {
+    "id": 3,
+    "name": "Hike or Nature Area"
+  },
+  {
+    "id": 4,
+    "name": "Restaurant"
+  },
+  {
+    "id": 5,
+    "name": "Shopping"
+  },
+  {
+    "id": 6,
+    "name": "Tour"
+  },
+  {
+    "id": 7,
+    "name": "Museum"
+  },
+  {
+    "id": 8,
+    "name": "Other"
+  }
+]

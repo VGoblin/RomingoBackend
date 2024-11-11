@@ -1,0 +1,132 @@
+[
+  {
+    "id": "bcf5d2b4-8d52-455b-9f09-b59f4da018e9",
+    "activityTypeId": 2,
+    "name": "Rosie's Dog Beach",
+    "overview": "LA's only off leash dog-friendly beach!",
+    "desc": "Take yourself and your pup for a swim at LA's only dog-friendly beach. This area is not fenced in and has metered parking in the Bennett Avenue lot, trash cans and nearby restrooms. Some bags are provided in dispensers, but users are encouraged to bring their own bags from home. Bags and pooper scoops are available. The Dog Zone is in effect from 6 a.m. to 8 p.m.",
+    "addressLine1": "5000 E Ocean Blvd, Long Beach, CA 90803",
+    "location": {
+      "latitude": 33.755565843544076,
+      "longitude": -118.1397077259715
+    },
+    "price": 0
+  },
+  {
+    "id": "eee9fc14-8eae-48ea-9e5a-ca028d0b2bf1",
+    "activityTypeId": 1,
+    "name": "Arts District Dog Park",
+    "overview": "Art, dogs, and sunshine...name a better trio!",
+    "desc": "Your dog will enjoy running wild while you enjoy the incredible art and murals that surround the park walls. Arts District Dog Park is a small community run dog park open daily from 5am to 11pm with areas for both large and small/timid dogs.",
+    "addressLine1": "1004 East 4th St, Los Angeles, CA 90013",
+    "location": {
+      "latitude": 34.0434795082493,
+      "longitude": -118.23429968427743
+    },
+    "price": 0
+  },
+  {
+    "id": "120aede4-4bde-4eab-ba98-9e5578b88ffb",
+    "activityTypeId": 1,
+    "name": "Uptown Dog Park",
+    "overview": "A small dog park that everyone seems to love!",
+    "desc": "Shade, water, and cleanliness come first at Uptown Dog Park. With separate areas for small and large dogs, the park is open from 5am to 10pm.",
+    "addressLine1": "4600 Long Beach Blvd, Long Beach, CA 90805",
+    "location": {
+      "latitude": 33.84226697231545,
+      "longitude": -118.1913762670684
+    },
+    "price": 0
+  },
+  {
+    "id": "96e1fd57-736c-4e49-92e6-693d65bf7074",
+    "activityTypeId": 1,
+    "name": "West Hollywood Park & Dog Park",
+    "overview": "An eco-friendly park with dog-friendly artificial turf!",
+    "desc": "Go get some energy out of the pups in the heart of West Hollywood. You'll find a beautiful park split into small and large dog sections open from 6am to midnight daily.",
+    "addressLine1": "647 N San Vicente Blvd, West Hollywood, CA 90069",
+    "location": {
+      "latitude": 34.084959199799336,
+      "longitude": -118.3839601202889
+    },
+    "price": 0
+  },
+  {
+    "id": "0d472609-ee53-4ed1-b511-d92908b9bda6",
+    "activityTypeId": 1,
+    "name": "Grand Park Dog Park",
+    "overview": "Clean, well-lit, and right in the heart of the city!",
+    "desc": "Let your pup run and play in the heart of LA! Open from 6am to 9pm everyday, this park has everything you need in a small, downtown package.",
+    "addressLine1": "233-299 N Spring St, Los Angeles, CA 90012",
+    "location": {
+      "latitude": 34.085467375714295,
+      "longitude": -118.24960751174237
+    },
+    "price": 0
+  },
+  {
+    "id": "15dee116-e827-4c86-ae2f-1e171b0dcbc6",
+    "activityTypeId": 3,
+    "name": "Runyon Canyon Park",
+    "overview": "Maybe LA's most famous dog-friendly hike!",
+    "desc": "Explore 160 acres of beautiful land in the hills above Hollywood. Leashes aren't required but we recommend them for the more crowded areas that get lots of people and dog traffic. Stay safe and bring plenty of water for you and your pups!",
+    "addressLine1": "2905 Runyon Canyon Rd, Los Angeles, CA 90046",
+    "location": {
+      "latitude": 34.10612817531475,
+      "longitude": -118.35042897617328
+    },
+    "price": 0
+  },
+  {
+    "id": "5ab89815-14fe-4003-adc3-a96cbf280e07",
+    "activityTypeId": 3,
+    "name": "Kenneth Hahn State Recreation Area",
+    "overview": "A beautiful nature area to escape the hustle and bustle!",
+    "desc": "Explore 5 miles of trails with your dog in this well maintained state park featuring a fishing lake, lotus pond, waterfalls, picnic sites, playgrounds, and unbeatable city views. Open 6am to 8am daily.",
+    "addressLine1": "4100 S La Cienega Blvd, Los Angeles, CA 90056",
+    "location": {
+      "latitude": 34.01235617583233,
+      "longitude": -118.37176630950862
+    },
+    "price": 0
+  },
+  {
+    "id": "bb548c4b-c72f-40d2-a911-763d399b32a7",
+    "activityTypeId": 3,
+    "name": "Whittier Narrows Recreation Area",
+    "overview": "1,492 acres of nature at the city's doorstep!",
+    "desc": "Bring your pooch on a leash to this massive and popular nature and recreation. Featuring a beautiful lake and plenty of ducks and squirrels to keep doggie entertainment levels high! Open 6am to 9pm daily.",
+    "addressLine1": "750 S Santa Anita Ave, South El Monte, CA 91733",
+    "location": {
+      "latitude": 34.03998055627807,
+      "longitude": -118.05719579634491
+    },
+    "price": 0
+  },
+  {
+    "id": "a5dbed24-62f3-449d-97ca-42d3fca56cdd",
+    "activityTypeId": 5,
+    "name": "Westfield Century City",
+    "overview": "Open air shopping with the pooch!",
+    "desc": "Enjoy the breeze with your pup while exploring over 200 shops and restaurants in a beautiful open-air mall. California doesn't get much better than this. Open from 10am to 9pm daily.",
+    "addressLine1": "10250 Santa Monica Blvd, Los Angeles, CA, US, 90067",
+    "location": {
+      "latitude": 34.058854708059904,
+      "longitude": -118.41906308188061
+    },
+    "price": 0
+  },
+  {
+    "id": "781307fd-49b4-4555-8685-49ae4d0c1362",
+    "activityTypeId": 5,
+    "name": "Belmont Shore",
+    "overview": "An entire dog-friendly neighborhood for food and shopping!",
+    "desc": "Grab a bite to eat with the pooch or check out some of the many dog-friendly shops. Not only do many stores and restaurants put out water bowls for our beloved 4-legged friends, some will even have treats or even serve full doggie meals to go with your human meal.",
+    "addressLine1": "5000 2nd St, Long Beach, CA 90803",
+    "location": {
+      "latitude": 33.761639024930986,
+      "longitude": -118.1375345262468
+    },
+    "price": 0
+  }
+]

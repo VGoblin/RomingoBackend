@@ -1,0 +1,82 @@
+{
+  "development": {
+    "packageName": "@romingo/graphql",
+    "env": "dev",
+    "gcp": {
+      "secretManagerProjectId": "939522375758",
+      "publicBucketName": "romingo-development-public"
+    },
+    "taKey": "2143528E8C854DB291C4E91056A6EA78",
+    "postgres": {
+      "privateHost": "10.74.208.3",
+      "publicHost": "35.243.194.141",
+      "port": 5432,
+      "dbName": "romingo-development",
+      "user": "dev",
+      "password": "E2=2q;8NxEH:'}u6"
+    },
+    "sabre": {
+      "tokenRefreshIntervalInSeconds": 86400,
+      "baseURL": "https://api-crt.cert.havail.sabre.com",
+      "pcc": "HY0K",
+      "pccRaj": "TM61",
+      "corporateDiscount": "787042193"
+    },
+    "imageBaseURL": "https://storage.googleapis.com/romingo-development-public/images/",
+    "stripe": {
+      "cardholderId": "ich_1JcG9CBdk22npNeJZHjuo6UZ"
+    },
+    "sendgrid": {
+      "from": {
+        "email": "hello@romingo.com",
+        "name": "Romingo"
+      },
+      "bcc": [
+        {
+          "email": "willgu29@gmail.com",
+          "name": "Will Gu"
+        },
+        {
+          "email": "zach@romingo.com",
+          "name": "Zach Somers"
+        },
+        {
+          "email": "hello@romingo.com",
+          "name": "Romingo Support"
+        }
+      ],
+      "preArrivalToHotelId": "d-a543dbe8e86a46218b5494723c1df5c8",
+      "newBookingTemplateId": "d-ae9b7dc14eec4c12be8fbd4205de5ae5",
+      "cancelBookingTemplateId": "d-b7891725b69b4da291811a14dfd2062a",
+      "createBookingSucceededTemplateId": "d-1a827eb95163453d9017f593e96181d2",
+      "createBookingFailedTemplateId": "d-63c8fa4d62e043a080a9fbc9d24457a2"
+    }
+  },
+  "test": {},
+  "staging": {},
+  "production": {
+    "env": "production",
+    "gcp": {
+      "secretManagerProjectId": "337085929800",
+      "publicBucketName": "romingo-production-public"
+    },
+    "taKey": "2143528E8C854DB291C4E91056A6EA78",
+    "postgres": {
+      "privateHost": "10.118.128.2",
+      "publicHost": "104.196.101.94",
+      "port": 5432,
+      "dbName": "romingo-production"
+    },
+    "sabre": {
+      "tokenRefreshIntervalInSeconds": 86400,
+      "baseURL": "https://api.havail.sabre.com",
+      "pcc": "HY0K",
+      "pccRaj": "TM61",
+      "corporateDiscount": "787042193"
+    },
+    "imageBaseURL": "https://storage.googleapis.com/romingo-production-public/images/",
+    "stripe": {
+      "cardholderId": "ich_1Jn1u5Bdk22npNeJcuiNlDTe"
+    }
+  }
+}

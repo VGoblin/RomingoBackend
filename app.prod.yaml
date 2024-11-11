@@ -1,0 +1,22 @@
+# om namah shivaya
+
+service: graphql
+runtime: nodejs14
+instance_class: F1
+automatic_scaling:
+  min_instances: 1
+  max_instances: 2
+  target_cpu_utilization: 0.75
+handlers:
+  - url: /.*
+    secure: always
+    redirect_http_response_code: 301
+    script: auto
+env_variables:
+  NODE_ENV: 'production'
+  TRIP_ADVISOR: 'https://api.tripadvisor.com/api/partner'
+  TRIP_KEY: '2143528E8C854DB291C4E91056A6EA78'
+  GA4_SECRET_KEY: 'gYnoxvN2SdyjOhbVa0LZ_A'
+  GA4_MEASUREMENT_ID: 'G-P505TS5XS4'
+vpc_access_connector:
+  name: projects/romingo-production/locations/us-east1/connectors/vpc-connector-us-east1

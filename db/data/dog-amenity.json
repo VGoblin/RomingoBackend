@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "potty area",
+    "desc": "outdoor potty area nearby"
+  },
+  {
+    "id": 2,
+    "name": "onsite dog run",
+    "desc": "onsite dog run/pet relief area"
+  },
+  {
+    "id": 3,
+    "name": "dog beds & bowls",
+    "desc": "dog beds & bowls already available"
+  },
+  {
+    "id": 4,
+    "name": "outdoor dog restaurant",
+    "desc": "restaurant allow dogs on leash"
+  },
+  {
+    "id": 5,
+    "name": "outdoor dog patio",
+    "desc": "restaurant has an outdoor patio that allows dogs"
+  },
+  {
+    "id": 6,
+    "name": "dog-friendly shops",
+    "desc": "dog-friendly shopping within walking distance"
+  },
+  {
+    "id": 8,
+    "name": "indoor dog-friendly cafe",
+    "desc": "coffee shop allows dogs on a leash"
+  },
+  {
+    "id": 9,
+    "name": "dog food available",
+    "desc": "dog food available on location"
+  },
+  {
+    "id": 10,
+    "name": "dog treats",
+    "desc": "dog treats are provided"
+  },
+  {
+    "id": 11,
+    "name": "onsite pet sitting",
+    "desc": "onsite pet sitting service is available"
+  },
+  {
+    "id": 12,
+    "name": "doggy happy hour",
+    "desc": "happy hour allows or encourages dogs"
+  },
+  {
+    "id": 13,
+    "name": "dog-friendly staff",
+    "desc": "staff have received training in dog-friendly service"
+  },
+  {
+    "id": 14,
+    "name": "doggy concierge",
+    "desc": "dog-friendly concierge on location"
+  },
+  {
+    "id": 15,
+    "name": "no pet deposit",
+    "desc": "$0 refundable pet deposit"
+  },
+  {
+    "id": 16,
+    "name": "onsite pet grooming",
+    "desc": "pet grooming available on location"
+  }
+]

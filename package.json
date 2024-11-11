@@ -1,0 +1,39 @@
+{
+  "name": "@romingo/graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Raj Chaudhary",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/secret-manager": "^3.10.0",
+    "@google-cloud/storage": "^5.17.0",
+    "@sendgrid/mail": "^7.4.7",
+    "apollo-server-core": "^3.3.0",
+    "apollo-server-express": "^3.3.0",
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "faunadb": "^4.4.1",
+    "firebase-admin": "^10.0.0",
+    "graphql": "^15.5.2",
+    "graphql-scalars": "^1.10.0",
+    "knex": "^0.95.10",
+    "knex-postgis": "^0.14.1",
+    "lodash": "^4.17.21",
+    "lodash.merge": "^4.6.2",
+    "luxon": "^2.0.2",
+    "node-cron": "^3.0.2",
+    "pg": "^8.7.1",
+    "stripe": "^8.176.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

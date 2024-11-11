@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ba12d364-9b1f-48c5-9ddc-7e68b40df076",
+    "stateId": "e65dd039-c9f0-4aed-8272-798d193a047d",
+    "name": "Los Angeles",
+    "center": {
+      "latitude": 34.07351043341975,
+      "longitude": -118.36388928440947
+    },
+    "zoom": 11
+  },
+  {
+    "id": "6f2cf61f-c769-47d9-9e46-90c5664b60b1",
+    "stateId": "e65dd039-c9f0-4aed-8272-798d193a047d",
+    "name": "San Diego",
+    "center": {
+      "latitude": 32.743646786327545,
+      "longitude": -117.19080348404489
+    },
+    "zoom": 13
+  },
+  {
+    "id": "82145909-13b4-4aab-be20-e0db474021c1",
+    "stateId": "e65dd039-c9f0-4aed-8272-798d193a047d",
+    "name": "San Francisco",
+    "center": {
+      "latitude": 37.79057588458158,
+      "longitude": -122.41495830286681
+    },
+    "zoom": 14
+  },
+  {
+    "id": "2714faad-9ea8-4851-9506-274710cdd51b",
+    "stateId": "e65dd039-c9f0-4aed-8272-798d193a047d",
+    "name": "Orange County",
+    "center": {
+      "latitude": 33.814835417227876,
+      "longitude": -117.8732462306437
+    },
+    "zoom": 11
+  },
+  {
+    "id": "58b23325-2016-44ef-886f-67e962dab17f",
+    "stateId": "e65dd039-c9f0-4aed-8272-798d193a047d",
+    "name": "Santa Barbara",
+    "center": {
+      "latitude": 34.422513844337736,
+      "longitude": -119.70634260640723
+    },
+    "zoom": 13
+  },
+  {
+    "id": "d4c10666-addf-47a6-9870-767518d9ebad",
+    "stateId": "e65dd039-c9f0-4aed-8272-798d193a047d",
+    "name": "Palm Springs",
+    "center": {
+      "latitude": 33.826291140277625,
+      "longitude": -116.52769996292206
+    },
+    "zoom": 13
+  }
+]
